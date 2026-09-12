@@ -15,7 +15,9 @@ The purpose of this lab is to create a controlled and isolated environment for l
 - Prepare the environment for future cybersecurity projects.
 # Purpose of the Lab
 The purpose of the lab is to establish a controlled and isolated cybersecurity testing environment for developing practical skills in network security, ethical hacking, penetration testing, vulnerability assessment and cybersecurity troubleshooting. The lab uses VirtualBox and Kali Linux as the foundation, with a dedicated 10.0.0.0/24 NAT Network. This laboratory provides a safe environment to practice cybersecurity techniques, test security tools, document findings, troubleshoot technical issues, and build practical experience without impacting production systems or unauthorised networks.
-
+# Lab Architecture
+![image.alt](https://github.com/Eneya-Banda/networkwalks-cybersecurity-lab-setup-v1/blob/main/Lab.png)
+# Lab Configuration
 
 
 
