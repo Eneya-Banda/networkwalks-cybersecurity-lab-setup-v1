@@ -18,6 +18,14 @@ The purpose of the lab is to establish a controlled and isolated cybersecurity t
 # Lab Architecture
 ![image.alt](https://github.com/Eneya-Banda/networkwalks-cybersecurity-lab-setup-v1/blob/main/Lab.png)
 # Lab Configuration
+![image.alt](https://github.com/Eneya-Banda/networkwalks-cybersecurity-lab-setup-v1/blob/main/Lab%20Configuration.png)
+# Lab Setup Procedure
+# Step 1. Install 7-Zip
+7-Zip was installed to extract the Kali Linux virtual machine package, which may be distributed as a .7z archive. 
+Tool: 7-Zip
+# Step 2. Install VirtualBox
+VirtualBox was installed as the hypervisor.
+
 
 
 
