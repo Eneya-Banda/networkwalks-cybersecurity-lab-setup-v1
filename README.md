@@ -24,9 +24,13 @@ The purpose of the lab is to establish a controlled and isolated cybersecurity t
 7-Zip was installed to extract the Kali Linux virtual machine package, which may be distributed as a .7z archive. 
 Tool: 7-Zip
 # Step 2. Install VirtualBox
-VirtualBox was installed as the hypervisor.
+Oracle VirtualBox was installed as the hypervisor.
+![image.alt](https://github.com/Eneya-Banda/networkwalks-cybersecurity-lab-setup-v1/blob/main/VirtualBox%20.png)
+# Step 3. Create the NAT Network
+![image.alt]
+A dedicated NAT Network was created in Oracle VirtualBox.
 
-
+Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled IPv6: Disabled
 
 
 
